@@ -1,6 +1,6 @@
 {
-    "name": "app_agent",
-    "short_name": "app_agent",
+    "name": "frontend_app_agent",
+    "short_name": "frontend_app_agent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
